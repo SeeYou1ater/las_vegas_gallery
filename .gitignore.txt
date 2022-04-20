@@ -1,4 +1,0 @@
-# las_vegas_gallery
-Web gallery / Las Vegas, gallery (HTML+CSS+JQuery)
-
-*.html
